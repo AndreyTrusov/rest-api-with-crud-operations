@@ -7,3 +7,6 @@ Learning to work with:
   - UML diagrams 
   - SQL tables 
   - Entity binding
+
+
+![image](https://user-images.githubusercontent.com/67972109/181904077-2b7f7bcc-40d1-42d8-bfe3-d1ca393ea461.png)
