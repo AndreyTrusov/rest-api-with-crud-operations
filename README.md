@@ -1,10 +1,8 @@
-<center><img src="https://img.shields.io/github/commit-activity/m/AndreyTrusov/rest-api-with-crud-operations?style=for-the-badge"><img src="https://img.shields.io/github/directory-file-count/AndreyTrusov/rest-api-with-crud-operations?style=for-the-badge"><img src="https://img.shields.io/github/languages/count/AndreyTrusov/rest-api-with-crud-operations?style=for-the-badge"><img src="https://img.shields.io/github/languages/count/AndreyTrusov/rest-api-with-crud-operations?style=for-the-badge"></center>
----
-# Basic Overview of project - "rest-api-with-crud-operations"
----
-Explore Rest API in java using Spring boot framework.
+<img src="https://img.shields.io/github/commit-activity/m/AndreyTrusov/rest-api-with-crud-operations?style=for-the-badge"><img src="https://img.shields.io/github/directory-file-count/AndreyTrusov/rest-api-with-crud-operations?style=for-the-badge"><img src="https://img.shields.io/github/languages/count/AndreyTrusov/rest-api-with-crud-operations?style=for-the-badge"><img src="https://img.shields.io/github/languages/count/AndreyTrusov/rest-api-with-crud-operations?style=for-the-badge">
 
-**Table of Contents**
+# Basic Overview of project - "rest-api-with-crud-operations"
+
+Explore Rest API in java using Spring boot framework.
 
 ## This project created to learning to work with: 
   - REST API   
